@@ -36,7 +36,7 @@ const Tarjeta = ({
             "group-hover:bg-blue-600 group-hover:text-white group-hover:px-6"
           )}
         >
-          <span className="transition-all duration-50 group-hover:mr-1">
+          <span className="transition-all duration-30 group-hover:mr-1">
             {textoBoton}
           </span>
           <span className="opacity-0 w-0 transition-all duration-200 group-hover:opacity-100 group-hover:w-auto">
