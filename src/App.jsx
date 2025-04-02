@@ -32,7 +32,7 @@ function App() {
           <h1 className="text-xl font-semibold color-[#414F53] text-center">
                Choose An Audience Breakdown By Source
           </h1>
-          <div className="flex gap-4 mb-12 flex-wrap justify-center">
+          <div className="flex gap-4 mb-12 flex-wrap justify-start">
             <Tarjeta
               texto="Query over 1b global members with granular interests to uncover hidden clusters (supports X member uploads)."
               textoBoton="Use X"
