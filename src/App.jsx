@@ -30,7 +30,7 @@ function App() {
       <div className="flex w-full h-full bg-[#F7F7F7] mt-16">
         <main className="flex flex-col py-16 px-20 w-full gap-10 min-h-screen pl-32">
           <h1 className="text-xl font-semibold color-[#414F53] text-center">
-            Intersection Accounts Followers
+               Choose An Audience Breakdown By Source
           </h1>
           <div className="flex gap-4 mb-12 flex-wrap justify-center">
             <Tarjeta
